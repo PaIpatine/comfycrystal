@@ -1,4 +1,4 @@
-# Pokémon Polished Crystal
+# Pokémon Comfy Crystal
 
 A community hack based on Pokémon (Polished) Crystal!
   
