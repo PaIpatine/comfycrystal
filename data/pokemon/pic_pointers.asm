@@ -524,4 +524,6 @@ PicPointers::
 	dba SylveonBackpic
 	dba PorygonZFrontpic
 	dba PorygonZBackpic
+	dba GrabWyrmFrontpic
+	dba GrabWyrmBackpic
 	dba EggPic
