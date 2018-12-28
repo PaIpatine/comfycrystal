@@ -63,7 +63,7 @@
 	const POLIWHIRL  ; $3d
 	const POLIWRATH  ; $3e
 	const POLITOED   ; $3f
-	const RALTZ      ; $40
+	const RALTS      ; $40
 	const KIRLIA     ; $41
 	const GARDEVOIR  ; $42
 	const GALLADE    ; $43
